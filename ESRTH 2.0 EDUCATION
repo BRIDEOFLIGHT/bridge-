@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridge of Light - Jestry Ndubueze Odom</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+        p {
+            font-size: 18px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact-links {
+            margin-top: 20px;
+        }
+        .contact-links a {
+            display: inline-block;
+            margin-right: 10px;
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bridge of Light </h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            ABOUT US</p>
+        <h2>Contact Information</h2>
+        <div class="contact-links">
+            <a href="mailto:jestry888@gmail.com">Email</a>
+            <a href="https://web.facebook.com/groups/1440966820188788" target="_blank">Facebook</a>
+            <a href="https://twitter.com/home" target="_blank">Twitter</a>
+            <a href="https://www.instagram.com/consciouscreators/#" target="_blank">Instagram</a>
+            <a href="https://truthsocial.com/@IamJestry" target="_blank">TruthSocial</a>
+        </div>
+    </div>
+</body>
+</html>
